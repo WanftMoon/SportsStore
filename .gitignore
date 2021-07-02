@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/bin/Debug
+/obj
+/SportsStore/bin/Debug/net5.0
+/SportsStore/obj
+/SportsStore.Tests/bin
+/SportsStore.Tests/obj
